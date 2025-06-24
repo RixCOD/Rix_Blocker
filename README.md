@@ -1,3 +1,4 @@
+![icon128](https://github.com/user-attachments/assets/5e4b5b9a-e712-42ef-bf17-33394210bd22)
 # Rix_Blocker
 
 **Rix_Blocker** is a lightweight and efficient browser extension designed to block intrusive ads and auto-skip YouTube ads. Built using Chrome's Declarative Net Request API and DOM scripting, it enhances your browsing experience by keeping annoying interruptions at bay.
